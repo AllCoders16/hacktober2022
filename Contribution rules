@@ -4,4 +4,5 @@
 2.Make sure to give topic related meaningful names to your file
 3.Maintain file extension like .py for python,.cc for cpp etc
 4.Do not forget to add your name in contribution.md
-       
+5.If contributing any leetcode solution then file name should be same as the given problem name .Also add problem link in your file as comment after following step 1
+                                                              --@--
